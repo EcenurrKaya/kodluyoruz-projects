@@ -1,0 +1,23 @@
+body{
+    background-color: #E9ECEF;
+}
+
+h3, li, h1{
+    text-align: center;
+    list-style-position: inside
+}
+
+.yan{
+    margin-left: 15px;
+    display: flex;
+    position: absolute;
+}
+
+.pill{
+    background-color: #eb9045;
+    color: rgb(245, 239, 239);
+}
+
+.border-color{
+    border-color: #eb9045;
+}

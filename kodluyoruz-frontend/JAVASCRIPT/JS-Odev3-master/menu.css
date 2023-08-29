@@ -1,0 +1,47 @@
+h2{
+    text-align: center;
+    text-shadow:3px 3px 2px dodgerblue;
+}
+
+body{
+    background-color: black;
+    color:white;
+}
+
+.menu{
+    margin-top:20px;
+}
+
+.btn-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:40px 0;
+}
+
+.btn-item{
+    margin-left: 15px;
+}
+
+.menu-title{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-items{
+    display: flex;
+    margin: 20px 0;
+}
+
+.menu-info{
+    margin-left: 20px;
+    width: 100%;
+}
+
+.photo{
+    width:30%;
+    height: 170px;
+    object-fit: cover;
+    box-shadow: 3px 3px 2px dodgerblue;
+    border-radius: 20px;
+}

@@ -1,0 +1,35 @@
+.logo-margin{
+    margin-left: 192px;
+}
+
+.boyut{
+    width:24px;
+    height:24px;
+}
+
+.kullanici-adi{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 1px;
+    color: rgba(0, 0, 0, 0.856);
+}
+
+.status-card{
+    flex: 0 0 auto;
+    width: 60px;
+    max-width: 70px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    margin-right: 20px; 
+  }
+
+  .middlearea{
+    max-height:200px;
+  }
+
+  .grey-font{
+
+  }

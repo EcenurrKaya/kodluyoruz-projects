@@ -1,0 +1,18 @@
+.p-display{
+    display:inline-flex;
+}
+
+.p-space{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.uli{
+    list-style-position: inside
+}
+
+h3{
+    text-align:center;
+    color:cornflowerblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

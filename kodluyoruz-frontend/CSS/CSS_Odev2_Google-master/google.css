@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contanier{
+    display: flex;
+    justify-content: center;
+}
+
+.left-bar{
+   margin:1px 1px 1px 80px;
+   width:35%;
+   background-color:#7EE5DA;
+}
+
+.right-bar{
+    margin:1px 80px 1px 1px;
+    width:40%;
+    font-size:small;
+    background-color: #62B3AA;
+}
+
+.middle-bar{
+    margin:1px;
+    width:25%;
+    font-size:small;
+    background-color: #70CCC2;
+    padding-top: 0%;
+}
+
+.bg-grey{
+    background-color: #EEEEEE;
+    margin:0 80px;
+}
